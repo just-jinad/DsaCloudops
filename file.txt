@@ -1,0 +1,19 @@
+1. vercel
+2. netlify
+3. github
+4. qserver
+5. namescheap
+6. awardspace
+7. microsoft azure
+8. HostGator
+
+
+
+// Steps to deploy a vite+react project using cPanel
+            To deploy a vite project,  the first thing to do would be;
+ 1. Create a vite project and run -  npm run build
+ 2. After that a dist folder would be created, this dist folder would be zipped 
+ 3. Login into your cPanel and move to upload, click on upload and select the zipped folder
+ 4. After uploading the zipped folder, into your cPanel https folder, unzip the folder and 
+
+
