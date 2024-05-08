@@ -6,6 +6,7 @@
 6. awardspace
 7. microsoft azure
 8. HostGator
+9. amazon web services
 
 
 
@@ -14,6 +15,7 @@
  1. Create a vite project and run -  npm run build
  2. After that a dist folder would be created, this dist folder would be zipped 
  3. Login into your cPanel and move to upload, click on upload and select the zipped folder
- 4. After uploading the zipped folder, into your cPanel https folder, unzip the folder and 
+ 4. After uploading the zipped folder, unzip the folder and move the files to your public folder on your cPanel, here the public folder serves and compile the files so it can be shown in the browser.
+ 
 
 
